@@ -29,10 +29,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">.
+I am a Back-End Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">.
 
 - :telescope: I’m currently learning software engineering at addis ababa institute of technology.
-- :telescope: backend and frontend developer with latest frameworks and technologies.
+- :telescope: backend developer (.Net FrameWork and Flask) with latest frameworks and technologies.
 
 - :seedling: System Programming and system design.
 - :seedling: Algorithm and low-level programming.
