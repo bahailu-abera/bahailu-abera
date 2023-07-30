@@ -39,6 +39,8 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/RbDKaczqWovIug
 
 - :zap: In my free time, I read fictions.
 
+-  Write code for peoples, not for computers!!!
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahailu-abera-05a154225/)
 
 ---
